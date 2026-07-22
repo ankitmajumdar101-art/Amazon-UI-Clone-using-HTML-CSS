@@ -110,3 +110,26 @@ span{
     font-weight: 700;
     margin-right: 15px;
 }
+
+/* panel */
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.panel-all{
+    margin-left: 15px;
+}
+
+.panel-ops p{
+    display: inline;
+    margin-left: 15px;
+}
+
+.panel-ops{
+    width: 70%;
+    font-size: 0.85rem;
+}
